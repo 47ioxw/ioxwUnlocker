@@ -5,7 +5,7 @@ Intended for advanced users who want to experiment with the client-side FPS targ
 
 Credits
 - @47ioxw  
-- github/47ioxw
+- [github/47ioxw](https://github.com/47ioxw)
 - https://guns.lol/47ioxw
 
 ---
