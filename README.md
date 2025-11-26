@@ -13,7 +13,7 @@ Credits
 ## **IMPORTANT**
 
 Download the .NET Desktop Runtime from this link:  
-[Download the .NET Desktop Runtime](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe)
+[Download Now.](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/6.0.36/windowsdesktop-runtime-6.0.36-win-x64.exe)
 
 Paste it in your browser, run the installer, and finish the setup.  
 Once it's installed, the FPS Unlocker will work with no issues.
