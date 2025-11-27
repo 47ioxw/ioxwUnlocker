@@ -1,6 +1,7 @@
 # i0xwUnlocker — Roblox FPS Unlocker (Unlimited FPS) 
 
 **NO FASTFLAGS OR INJECTING IN ROBLOX.**
+[VIRUS TOTAL](https://www.virustotal.com/gui/file/1c33b80ae0302b3892ff815fbeb86bbfcdf1b0a790c03d886336065ebe8c244c)
 
 A small Windows console utility to patch Roblox client settings and set a target FPS cap in `ClientAppSettings.json`.  
 Intended for advanced users who want to experiment with the client-side FPS target setting or automate applying a preferred FPS cap across Roblox installs. The tool is authored by @47ioxw.
